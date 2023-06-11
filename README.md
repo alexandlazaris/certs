@@ -9,3 +9,7 @@ A collection of training certificates I have accumulated throughout my career.
 [SwaggerHub API Designer](./smartbear/Certificate-SwaggerHub-API-Designer.pdf)
 
 [Introduction to Pact Flow](./smartbear/Certificate-Introduction-to-Pact-Flow.pdf)
+
+[Virtualization Partner Certified](./smartbear/Certificate-ServiceVirtualization.pdf)
+
+[Tier 1: Basic SmartBear Partner Certified, API Testing](./smartbear/Certificate-SmartBear-APITesting-Tier1.pdf)
